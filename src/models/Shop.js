@@ -17,6 +17,7 @@ const ContactSchema = new mongoose.Schema(
   { _id: false }
 );
 
+//ampina images
 const ShopSchema = new mongoose.Schema(
   {
     name: {
